@@ -25,11 +25,10 @@ def run_agent(question):
                     base.
 
                     If the question is related to a medical condition,
-                    symptoms, treatment, or medication, you should use
+                    symptoms, treatment, or medication, you MUST use
                     the medical search tool.
 
-                    If the question is not related to medicine, do not
-                    use the tool.
+                    If the user asks a non-medical question, DO NOT use the tool. Simply reply with a polite greeting or decline the non-medical question.
 
                     Only answer questions related to the medical domain.
                     """
@@ -103,4 +102,4 @@ def run_agent(question):
 
 
     else:
-        return "Sorry, I can only answer questions related to the medical knowledge base."
+        return resp.message.content
