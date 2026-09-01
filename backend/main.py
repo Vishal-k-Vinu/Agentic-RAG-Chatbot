@@ -15,7 +15,7 @@ def health():
 
 @app.post("/chat")
 def chat(request:ChatRequest):
-    ans = run_agent(request.message)
+    ans = run_agent(request.message).replace('\n', ' ')
     return {
         "question" : request.message,
         "response" : ans

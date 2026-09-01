@@ -1,5 +1,5 @@
 from ollama import chat
-from retriever import search_document
+from backend.retriever import search_document
 
 
 model = "llama3.2:1b"
@@ -104,12 +104,3 @@ def run_agent(question):
 
     else:
         return "Sorry, I can only answer questions related to the medical knowledge base."
-
-if __name__ == "__main__":
-
-    question = "symptoms of common cold?"
-
-    answer = run_agent(question)
-
-    print("\nFinal Answer:")
-    print(answer)
