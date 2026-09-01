@@ -2,7 +2,7 @@ from ollama import chat
 from retriever import search_document
 
 
-model = "qwen2.5:0.5b"
+model = "llama3.2:1b"
 
 
 def search_med_document(query):
@@ -61,13 +61,12 @@ def run_agent(question):
         ]
     )
 
-
     if resp.message.tool_calls:
 
         print("Agent decided to use medical search tool")
         tool_calls = resp.message.tool_calls[0]
         argument = tool_calls.function.arguments
-        query = argument["query"]
+        query = argument.get("query", question)
         search_result = search_med_document(query)
         
         final_resp = chat(
@@ -93,10 +92,7 @@ def run_agent(question):
                     "role": "user",
                     "content": question
                 },
-                {
-                    "role": "assistant",
-                    "content": resp.message.tool_calls
-                },
+                resp.message,
                 {
                     "role": "tool",
                     "content": search_result
