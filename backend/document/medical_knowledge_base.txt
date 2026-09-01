@@ -1,0 +1,484 @@
+MEDICAL KNOWLEDGE BASE
+Educational reference for RAG chatbot testing
+================================================
+
+IMPORTANT DISCLAIMER
+This document is for educational and software-testing purposes only. It is not medical advice, diagnosis, or a substitute for consultation with a qualified healthcare professional. Medication choices depend on age, pregnancy status, allergies, other medicines, kidney/liver function, severity, and the exact diagnosis. Emergency symptoms require urgent medical care.
+
+1. COMMON COLD
+Symptoms:
+- Runny or blocked nose
+- Sneezing
+- Sore throat
+- Cough
+- Mild headache or body aches
+- Sometimes a low-grade fever
+
+General treatment:
+- Rest and adequate fluids
+- Saline nasal spray may help congestion
+- Acetaminophen/paracetamol or ibuprofen may help pain or fever when appropriate
+- Most uncomplicated colds improve without antibiotics
+
+Medication notes:
+Antibiotics do not treat the viruses that usually cause the common cold. Symptom-relief medicines should be selected according to the person's health status and product instructions.
+
+2. INFLUENZA (FLU)
+Symptoms:
+- Sudden fever or chills
+- Cough
+- Sore throat
+- Muscle or body aches
+- Headache
+- Fatigue
+- Sometimes vomiting or diarrhea, especially in children
+
+General treatment:
+- Rest and fluids
+- Acetaminophen/paracetamol or ibuprofen may help fever and aches when appropriate
+- Prescription antiviral medicines such as oseltamivir may be considered for some people, especially when started early
+
+Medication notes:
+Antibiotics do not treat influenza. Antiviral treatment decisions should be made by a healthcare professional.
+
+3. ASTHMA
+Symptoms:
+- Wheezing
+- Shortness of breath
+- Chest tightness
+- Cough, often worse at night or early morning
+- Symptoms may come and go
+
+General treatment:
+- Avoid known triggers
+- Use prescribed inhalers correctly
+- A short-acting bronchodilator such as albuterol/salbutamol may provide quick relief when prescribed
+- Inhaled corticosteroids such as budesonide are commonly used as controller treatment
+
+Medication notes:
+Asthma treatment is individualized. A person with severe breathing difficulty or rapidly worsening symptoms needs urgent medical attention.
+
+4. ALLERGIC RHINITIS
+Symptoms:
+- Sneezing
+- Itchy nose
+- Runny or blocked nose
+- Itchy or watery eyes
+- Symptoms may occur after exposure to pollen, dust mites, mold, or animals
+
+General treatment:
+- Reduce exposure to known allergens
+- Saline nasal rinses may help
+- Antihistamines such as cetirizine or loratadine are commonly used
+- Intranasal corticosteroids such as fluticasone may be used
+
+Medication notes:
+Medication selection depends on age, other medicines, and medical conditions.
+
+5. ACID REFLUX / GERD
+Symptoms:
+- Burning sensation in the chest (heartburn)
+- Sour or bitter taste in the mouth
+- Regurgitation
+- Symptoms may worsen after meals or when lying down
+
+General treatment:
+- Avoid individual trigger foods
+- Avoid large meals close to bedtime
+- Weight management may help some people
+- Antacids can provide short-term symptom relief
+- H2 blockers or proton pump inhibitors such as omeprazole may be used when appropriate
+
+Medication notes:
+Persistent or severe symptoms should be evaluated because chest discomfort can have causes other than reflux.
+
+6. GASTRITIS
+Symptoms:
+- Upper abdominal discomfort or pain
+- Nausea
+- Feeling full quickly
+- Bloating
+- Indigestion
+- Sometimes vomiting
+
+General treatment:
+- Avoid substances that irritate the stomach when possible
+- Treatment depends on the cause
+- Acid-reducing medicines such as proton pump inhibitors may be used
+- If Helicobacter pylori infection is confirmed, a clinician may prescribe combination antibiotic therapy
+
+Medication notes:
+Treatment should address the underlying cause. Black stools, vomiting blood, severe pain, or fainting require urgent evaluation.
+
+7. MIGRAINE
+Symptoms:
+- Moderate to severe headache, often throbbing
+- Pain may occur on one side
+- Nausea or vomiting
+- Sensitivity to light or sound
+- Some people experience an aura with visual or sensory symptoms
+
+General treatment:
+- Rest in a quiet, dark room
+- Maintain hydration and regular sleep
+- Acetaminophen/paracetamol or NSAIDs may help some attacks
+- Prescription migraine-specific medicines such as triptans may be used
+- Preventive medicines may be considered for frequent attacks
+
+Medication notes:
+Frequent use of acute headache medicines can itself contribute to medication-overuse headache.
+
+8. TENSION HEADACHE
+Symptoms:
+- Pressure or tightening around the head
+- Mild to moderate pain
+- Pain may affect both sides
+- Neck or shoulder muscle discomfort may occur
+
+General treatment:
+- Rest and hydration
+- Stress management
+- Regular sleep
+- Acetaminophen/paracetamol or an NSAID may help when appropriate
+
+Medication notes:
+A sudden, extremely severe headache or a headache with neurological symptoms requires urgent medical assessment.
+
+9. HYPERTENSION (HIGH BLOOD PRESSURE)
+Symptoms:
+- Often no symptoms
+- Severe hypertension may sometimes cause headache, visual problems, chest symptoms, or shortness of breath
+
+General treatment:
+- Reduce excess dietary sodium
+- Regular physical activity
+- Healthy weight management
+- Avoid tobacco
+- Limit alcohol
+- Antihypertensive medicines may include ACE inhibitors, ARBs, calcium-channel blockers, or thiazide-type diuretics
+
+Medication notes:
+Blood-pressure medication must be selected and adjusted by a clinician. Very high blood pressure with chest pain, severe headache, confusion, weakness, or breathing difficulty can be an emergency.
+
+10. TYPE 2 DIABETES
+Symptoms:
+- Increased thirst
+- Frequent urination
+- Increased hunger
+- Fatigue
+- Blurred vision
+- Slow-healing wounds
+- Some people have no symptoms initially
+
+General treatment:
+- Balanced diet
+- Regular physical activity
+- Weight management when appropriate
+- Blood-glucose monitoring
+- Metformin is commonly used as an initial medicine for many people
+- Other medicines such as GLP-1 receptor agonists, SGLT2 inhibitors, or insulin may be used depending on the individual
+
+Medication notes:
+Diabetes treatment is personalized. Blood-glucose-lowering medicines can cause side effects, including low blood sugar with some treatments.
+
+11. HYPOTHYROIDISM
+Symptoms:
+- Fatigue
+- Feeling unusually cold
+- Weight gain
+- Dry skin
+- Constipation
+- Slow heart rate
+- Difficulty concentrating
+
+General treatment:
+- Thyroid hormone replacement is the standard treatment
+- Levothyroxine is commonly prescribed
+
+Medication notes:
+Dose is based on blood tests and individual factors. Thyroid hormone should not be started or adjusted without medical guidance.
+
+12. HYPERTHYROIDISM
+Symptoms:
+- Weight loss despite normal or increased appetite
+- Fast or irregular heartbeat
+- Anxiety or nervousness
+- Tremor
+- Sweating
+- Heat intolerance
+- Frequent bowel movements
+
+General treatment:
+- Treatment depends on the cause
+- Beta blockers may reduce some symptoms
+- Antithyroid medicines such as methimazole may be prescribed
+- Radioactive iodine or surgery may be considered for some patients
+
+Medication notes:
+Treatment requires medical evaluation and thyroid-function testing.
+
+13. IRON-DEFICIENCY ANEMIA
+Symptoms:
+- Fatigue
+- Weakness
+- Pale skin
+- Shortness of breath with activity
+- Dizziness
+- Headache
+- Brittle nails in some cases
+
+General treatment:
+- Identify and treat the source of iron deficiency
+- Iron-rich foods may help
+- Oral iron supplements such as ferrous sulfate are commonly used
+- Intravenous iron may be used in selected cases
+
+Medication notes:
+Iron deficiency can result from blood loss or other conditions, so the cause should be investigated rather than treating the laboratory result alone.
+
+14. URINARY TRACT INFECTION (UTI)
+Symptoms:
+- Burning or pain during urination
+- Frequent urge to urinate
+- Passing small amounts of urine
+- Lower abdominal discomfort
+- Cloudy or strong-smelling urine
+
+General treatment:
+- Adequate fluids unless fluid restriction is medically required
+- Antibiotics may be prescribed when a bacterial UTI is diagnosed
+- Examples of antibiotics used in selected uncomplicated cases include nitrofurantoin or trimethoprim-sulfamethoxazole
+
+Medication notes:
+Antibiotic choice depends on local resistance patterns, allergies, pregnancy status, kidney function, and the type of infection. Fever, flank pain, vomiting, or feeling very unwell can indicate a kidney infection and needs prompt medical care.
+
+15. PNEUMONIA
+Symptoms:
+- Cough
+- Fever or chills
+- Shortness of breath
+- Chest pain with breathing or coughing
+- Fatigue
+- Sometimes confusion in older adults
+
+General treatment:
+- Treatment depends on whether the pneumonia is bacterial, viral, fungal, or another type
+- Bacterial pneumonia may require prescription antibiotics
+- Supportive care includes fluids and rest
+- Oxygen may be required in severe cases
+
+Medication notes:
+Antibiotics do not treat viral pneumonia. Difficulty breathing, bluish lips, confusion, or severe weakness requires urgent medical evaluation.
+
+16. ACUTE BRONCHITIS
+Symptoms:
+- Cough, sometimes lasting several weeks
+- Mucus production
+- Chest discomfort
+- Fatigue
+- Mild fever may occur
+
+General treatment:
+- Rest and fluids
+- Honey may help cough in adults and children over one year
+- Symptom-relief medicines may be used when appropriate
+- Inhaled bronchodilators are sometimes considered if wheezing is present
+
+Medication notes:
+Acute bronchitis is commonly caused by viruses, so routine antibiotics are generally not useful.
+
+17. SINUSITIS
+Symptoms:
+- Nasal congestion
+- Facial pressure or pain
+- Thick nasal discharge
+- Reduced sense of smell
+- Cough, especially with postnasal drainage
+
+General treatment:
+- Saline nasal irrigation
+- Fluids and rest
+- Pain relievers when appropriate
+- Intranasal corticosteroids may help some people
+- Some bacterial cases may require antibiotics after clinical assessment
+
+Medication notes:
+Many acute sinus infections are viral. Severe swelling around the eye, vision changes, severe headache, or neurological symptoms require urgent evaluation.
+
+18. ECZEMA (ATOPIC DERMATITIS)
+Symptoms:
+- Dry skin
+- Itching
+- Red or inflamed patches
+- Cracked or scaly skin
+- Symptoms may flare and improve repeatedly
+
+General treatment:
+- Regular use of fragrance-free moisturizers
+- Gentle skin cleansing
+- Avoid known irritants
+- Topical corticosteroids such as hydrocortisone may be used for some flares
+- Other prescription topical medicines may be used for persistent disease
+
+Medication notes:
+Treatment depends on severity and location. Signs of skin infection such as increasing pain, pus, fever, or rapidly spreading redness need medical evaluation.
+
+19. ACNE
+Symptoms:
+- Blackheads
+- Whiteheads
+- Pimples
+- Pustules
+- Nodules or cysts in severe cases
+- Usually affects the face, chest, or back
+
+General treatment:
+- Gentle skin cleansing
+- Non-comedogenic skin products
+- Topical benzoyl peroxide
+- Topical retinoids such as adapalene
+- Prescription antibiotics or isotretinoin may be considered for selected cases
+
+Medication notes:
+Some acne medicines have important pregnancy-related restrictions and other safety considerations. Severe acne can cause permanent scarring and should be evaluated.
+
+20. FUNGAL SKIN INFECTION (RINGWORM / TINEA)
+Symptoms:
+- Itchy rash
+- Circular or ring-shaped patches
+- Scaling or redness
+- Rash may expand outward
+
+General treatment:
+- Keep affected skin clean and dry
+- Avoid sharing towels or clothing
+- Topical antifungals such as clotrimazole or terbinafine are commonly used
+- Oral antifungal medicines may be needed for some infections
+
+Medication notes:
+Not every circular rash is fungal. Persistent, widespread, scalp, or nail infections may require professional diagnosis and treatment.
+
+21. OSTEOARTHRITIS
+Symptoms:
+- Joint pain
+- Stiffness, especially after inactivity
+- Reduced range of motion
+- Mild swelling
+- Commonly affects knees, hips, hands, or spine
+
+General treatment:
+- Exercise and physical therapy
+- Weight management when appropriate
+- Heat or cold therapy
+- Topical NSAIDs may help some people
+- Oral pain relievers or other medicines may be considered
+
+Medication notes:
+NSAIDs can have stomach, kidney, blood-pressure, and cardiovascular risks. Treatment should consider individual risk factors.
+
+22. RHEUMATOID ARTHRITIS
+Symptoms:
+- Painful, swollen joints
+- Morning stiffness lasting longer than typical osteoarthritis stiffness
+- Fatigue
+- Often affects joints on both sides of the body
+
+General treatment:
+- Early evaluation by a healthcare professional is important
+- Disease-modifying antirheumatic drugs such as methotrexate are commonly used
+- Other medicines, including biologic therapies, may be used
+- Physical and occupational therapy can help function
+
+Medication notes:
+These medicines can affect the immune system and require medical monitoring. Methotrexate has important safety precautions and should only be used under professional supervision.
+
+23. GOUT
+Symptoms:
+- Sudden severe joint pain
+- Swelling
+- Redness
+- Warmth around the joint
+- Often affects the big toe but can affect other joints
+
+General treatment:
+- Rest and protect the painful joint
+- Ice may help
+- NSAIDs, colchicine, or corticosteroids may be used for acute attacks under medical guidance
+- Urate-lowering medicines such as allopurinol may be used to prevent recurrent attacks
+
+Medication notes:
+Acute gout treatment and long-term prevention are different. Allopurinol is generally a preventive medicine, not a rapid pain reliever for an acute attack.
+
+24. DEPRESSION
+Symptoms:
+- Persistent sadness or low mood
+- Loss of interest or pleasure
+- Changes in sleep
+- Changes in appetite
+- Low energy
+- Difficulty concentrating
+- Feelings of worthlessness or hopelessness
+
+General treatment:
+- Psychotherapy such as cognitive behavioral therapy
+- Regular sleep, activity, and social support
+- Antidepressants such as SSRIs may be prescribed
+- Treatment is individualized based on symptoms and circumstances
+
+Medication notes:
+Antidepressants should be taken under medical supervision and generally should not be stopped suddenly without guidance. Thoughts of self-harm or suicide require immediate emergency or crisis support.
+
+25. ANXIETY DISORDERS
+Symptoms:
+- Excessive worry
+- Restlessness
+- Irritability
+- Difficulty concentrating
+- Muscle tension
+- Sleep problems
+- Physical symptoms such as rapid heartbeat or sweating
+
+General treatment:
+- Psychotherapy, including cognitive behavioral therapy
+- Regular exercise and healthy sleep routines
+- SSRIs or SNRIs may be prescribed for some anxiety disorders
+- Other medicines may be considered in specific circumstances
+
+Medication notes:
+Treatment depends on the specific anxiety disorder. Some short-term anti-anxiety medicines can cause dependence or sedation and require careful medical supervision.
+
+
+QUICK REFERENCE
+================================================
+
+Condition                  Common symptom examples                 Common treatment/medication examples
+--------------------------------------------------------------------------------------------------------
+Common cold                Runny nose, cough, sneezing              Rest, fluids, symptom relief
+Influenza                  Fever, aches, cough                      Supportive care, selected antivirals
+Asthma                     Wheezing, breathlessness                 Inhalers, corticosteroids
+Allergic rhinitis          Sneezing, itchy nose                     Antihistamines, nasal steroids
+GERD                       Heartburn, regurgitation                 Antacids, H2 blockers, PPIs
+Gastritis                  Upper abdominal discomfort                Acid suppression; treat cause
+Migraine                   Throbbing headache, nausea               Pain relievers, triptans
+Tension headache           Pressure-like headache                   Pain relievers, lifestyle measures
+Hypertension               Often no symptoms                        Lifestyle, antihypertensives
+Type 2 diabetes            Thirst, frequent urination               Lifestyle, glucose-lowering medicines
+Hypothyroidism             Fatigue, cold intolerance                Levothyroxine
+Hyperthyroidism             Weight loss, palpitations                Antithyroid therapy, selected treatments
+Iron-deficiency anemia     Fatigue, weakness                        Iron replacement, treat cause
+UTI                        Burning urination, frequency              Antibiotics when bacterial
+Pneumonia                  Fever, cough, breathlessness              Cause-specific treatment
+Acute bronchitis           Persistent cough                          Supportive care
+Sinusitis                  Congestion, facial pressure              Saline, nasal steroids, selected antibiotics
+Eczema                     Itchy dry inflamed skin                   Moisturizers, topical treatments
+Acne                       Pimples, blackheads                       Benzoyl peroxide, retinoids
+Ringworm                   Itchy circular rash                       Topical antifungals
+Osteoarthritis             Joint pain and stiffness                 Exercise, topical/oral pain medicines
+Rheumatoid arthritis       Swollen painful joints                   DMARDs such as methotrexate
+Gout                       Sudden severe joint pain                  NSAIDs, colchicine, urate lowering
+Depression                 Low mood, loss of interest                Therapy, antidepressants
+Anxiety disorders          Excessive worry, restlessness             Therapy, SSRIs/SNRIs
+
+EMERGENCY WARNING
+================================================
+This knowledge base is not designed to determine whether a symptom is an emergency. Seek urgent medical care for symptoms such as severe difficulty breathing, severe chest pain, fainting, new severe confusion, sudden weakness or paralysis, seizures, severe allergic reactions, uncontrolled bleeding, or thoughts of suicide/self-harm.
