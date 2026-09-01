@@ -60,14 +60,3 @@ def search_document (query , n_results = 3):
         n_results=n_results
     )
     return results["documents"][0]
-
-
-
-if __name__ == "__main__":
-    add_document()
-    query = "What are the symptoms of asthma?"
-    results = search_document(query)
-    print("\nSearch results:\n")
-    for i ,result in enumerate (results):
-        print(f"\n ---Result {i+1}---\n" )
-        print(result)
